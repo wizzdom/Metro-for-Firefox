@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "METRO for Firefox",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-021-775b159da029a74f5c76e835cd65e9dc.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(17, 17, 17, 0.9)",
+      "toolbar_text": "rgb(143, 143, 143)",
+      "frame": "rgb(17, 17, 17)",
+      "tab_background_text": "rgb(143, 143, 143)",
+      "toolbar_field": "rgba(50, 50, 50, 0.22)",
+      "toolbar_field_text": "rgb(64, 164, 255)",
+      "tab_line": "rgb(64, 164, 255)",
+      "popup": "rgb(17, 17, 17)",
+      "popup_text": "rgb(203, 203, 203)",
+      "tab_loading": "rgb(64, 164, 255)"
+    }
+  }
+}
