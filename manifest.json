@@ -9,12 +9,8 @@
       ]
     },
     "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
+      "additional_backgrounds_alignment": ["top"],
+      "additional_backgrounds_tiling": ["repeat"]
     },
     "colors": {
       "toolbar": "rgba(17, 17, 17, 0.9)",
@@ -26,7 +22,9 @@
       "tab_line": "rgb(64, 164, 255)",
       "popup": "rgb(17, 17, 17)",
       "popup_text": "rgb(203, 203, 203)",
-      "tab_loading": "rgb(64, 164, 255)"
+      "tab_loading": "rgb(64, 164, 255)",
+      "ntp_background": "rgb(17, 17, 17)",
+      "ntp_text": "rgb(143, 143, 143)"
     }
   }
 }
